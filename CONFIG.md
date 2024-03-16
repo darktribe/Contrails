@@ -28,8 +28,6 @@ My-Ego-Search
 - (techblog.show-ya.blue|trpg.gigafreaks.com|blog.trpg.gigafreaks.com|analoggame.gigafreaks.com|darktribe.hatenablog.com|kancolle.show-ya.blue)
 - (devil.show-ya.blue|devildaredevil.com|ideology.show-ya.blue|show-ya.tumblr.com)
 - (如月翔也|darktribe|showya_kiss)
-- -割り込み
-- -こちらのやりかた
 
 # denyList
 
@@ -37,6 +35,10 @@ My-Ego-Search
 >
 > - did:plc:1234
 > - @spamspamspam.bsky.social
+
+- 割り込み
+- こちらのやりかた
+
 
 # safeMode
 
