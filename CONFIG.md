@@ -26,10 +26,11 @@ My-Ego-Search
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
 - (techblog.show-ya.blue|trpg.gigafreaks.com|blog.trpg.gigafreaks.com|analoggame.gigafreaks.com|darktribe.hatenablog.com|kancolle.show-ya.blue)
+- (techblog.show-ya.blue|trpg.gigafreaks.com|blog.trpg.gigafreaks.com|analoggame.gigafreaks.com|darktribe.hatenablog.com|kancolle.show-ya.blue)
 - (devil.show-ya.blue|devildaredevil.com|ideology.show-ya.blue|show-ya.tumblr.com)
 - (如月翔也|darktribe|showya_kiss)
-- (techblog.show-ya.blue) -割り込み
-- (techblog.show-ya.blue) -こちらのやりかた
+- 'techblog.show-ya.blue' -割り込み
+- 'techblog.show-ya.blue' -こちらのやりかた
 
 
 # denyList
