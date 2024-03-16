@@ -29,8 +29,8 @@ My-Ego-Search
 - (techblog.show-ya.blue|trpg.gigafreaks.com|blog.trpg.gigafreaks.com|analoggame.gigafreaks.com|darktribe.hatenablog.com|kancolle.show-ya.blue)
 - (devil.show-ya.blue|devildaredevil.com|ideology.show-ya.blue|show-ya.tumblr.com)
 - (如月翔也|darktribe|showya_kiss)
-- 'techblog.show-ya.blue' -割り込み
-- 'techblog.show-ya.blue' -こちらのやりかた
+- techblog -割り込み
+- techblog -こちらのやりかた
 
 
 # denyList
