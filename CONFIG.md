@@ -38,7 +38,7 @@ My-Ego-Search
 - 如月翔也
 - darktribe
 - showya_kiss
-- "赤城/司令官"
+- '赤城/司令官'
 
 # denyList
 
