@@ -29,6 +29,7 @@ My-Ego-Search
 - (devil.show-ya.blue|devildaredevil.com|ideology.show-ya.blue|show-ya.tumblr.com)
 - (如月翔也|darktribe|showya_kiss)
 - techblog.show-ya.blue
+- 赤城/司令官
 
 # denyList
 
