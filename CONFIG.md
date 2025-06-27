@@ -36,6 +36,7 @@ My-Ego-Search
 - 'devildaredevil.com'
 - 'ideology.show-ya.blue'
 - 'note.com/showya_kiss'
+- 'saigetsudo.com'
 - 如月翔也
 - 如月　翔也
 - darktribe
